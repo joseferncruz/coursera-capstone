@@ -8,6 +8,8 @@ This project is part of the [IBM Data Science Certification](https://www.courser
 
 In this project I intend to develop a machine learning model to predict severity of an accident by using different data attributes such as weather, road condition, date, individuals involved, etc.
 
+In order to develop my model, I will apply the **Cross Industry Standard Process for Data Mining (CRISP-DM)**. 
+
 This project will use publicly available data collected by the Seattle Police Department and recorded by Traffic Records.
 
 
