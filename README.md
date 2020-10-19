@@ -1,5 +1,5 @@
 # Improving public policy by predicting car accident severity using machine learning
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joseferncruz/coursera-capstone/master)
 
 This project is part of the [IBM Data Science Certification](https://www.coursera.org/professional-certificates/ibm-data-science) offered via coursera.
 
