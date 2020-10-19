@@ -11,11 +11,12 @@ This project is part of the [IBM Data Science Certification](https://www.courser
 - [Introduction](#introduction)
 - [Repository contents](#repository-contents)
 - [The code](#the-interactive-code)
+- [Project report](#project-report)
 
 
 
 
----
+
 ## Introduction
 
 In this project, I used publicly available data from the Seattle Police Department to understand the problem and develop metrics that can be used to reduce car accident severity. Results from this project could be used to design and implement new public policies aiming at reducing injury-related accidents.
@@ -65,14 +66,23 @@ This project was executed using python 3 and jupyter notebooks.
 `imblearn==0.7.0`
 
 
-#### B) Run the code an online executable environment:
+#### B) Run the code on an online executable environment:
 
 1) Load this repository on [Binder](https://mybinder.org/v2/gh/joseferncruz/coursera-capstone/master).  
+
+or
 
 2) Load the notebooks on [google colaboratory](https://mybinder.org/v2/gh/joseferncruz/coursera-capstone/master):
 - Create a google colaboratory account;
 - From an google colab environment, select `file > open notebook > github` and paste the link to this repository.
 
 
+## Project report
+
+
+In addition to the interactive Jupyter Notebook, I wrote a report with information about the process that I undertook to complete this project. You can **access** the document **[here](https://docs.google.com/document/d/15EvVyyEokxCvwtYD3CShfXqDteALbU_kGJTnf0WRIVI/edit?usp=sharing).**
+
+
 ---
+
 José Oliveira da Cruz, 2020
