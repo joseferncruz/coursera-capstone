@@ -1,5 +1,4 @@
 # Improving public policy by predicting car accident severity using machine learning
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joseferncruz/coursera-capstone/master)
 
 This project is part of the [IBM Data Science Certification](https://www.coursera.org/professional-certificates/ibm-data-science) offered via coursera.
 
@@ -10,7 +9,7 @@ This project is part of the [IBM Data Science Certification](https://www.courser
 
 - [Introduction](#introduction)
 - [Repository contents](#repository-contents)
-- [The code](#the-interactive-code)
+- [The code](#the-code)
 - [Project report](#project-report)
 
 
@@ -50,11 +49,13 @@ This project was executed using python 3 and jupyter notebooks.
 
 1) Download or clone this repository using [git](https://git-scm.com/downloads) on bash:  
 
-      git clone https://github.com/joseferncruz/coursera-capstone.git
+      `git clone https://github.com/joseferncruz/coursera-capstone.git`
 
-2) Install a python environment with jupyter notebooks/lab such as the [anaconda distribution](https://www.anaconda.com/products/individual).
+2) Install a python environment with jupyter notebooks/lab such as the [anaconda distribution](https://www.anaconda.com/products/individual). In order to create an environment with all the required packages, open the annaconda powershell type:  
 
-3) Install the required python packages:  
+      `conda env create -f environment.yml`
+
+3) Alternatively install the following required python packages:  
 
 `notebook==6.0.3`  
 `sklearn==0.23.1`  
@@ -68,11 +69,7 @@ This project was executed using python 3 and jupyter notebooks.
 
 #### B) Run the code on an online executable environment:
 
-1) Load this repository on [Binder](https://mybinder.org/v2/gh/joseferncruz/coursera-capstone/master).  
-
-or
-
-2) Load the notebooks on [google colaboratory](https://mybinder.org/v2/gh/joseferncruz/coursera-capstone/master):
+1) Load the notebooks on [google colaboratory](https://colab.research.google.com):
 - Create a google colaboratory account;
 - From an google colab environment, select `file > open notebook > github` and paste the link to this repository.
 
